@@ -1,0 +1,26 @@
+.sunny {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(219, 255, 172, 1) 100%
+    );
+}
+
+.rainy {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(215, 224, 248, 1) 100%
+    );
+}
+
+.cloudy {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+        90deg,
+        rgba(255, 255, 255, 1) 0%,
+        rgba(206, 199, 203, 1) 100%
+    );
+}
